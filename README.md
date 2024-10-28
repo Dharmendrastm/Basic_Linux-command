@@ -1,1 +1,0 @@
-# Basic_Linux-command
